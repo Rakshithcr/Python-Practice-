@@ -1,3 +1,5 @@
+# Second largest in given numbers
+
 num = list(map(int, input("Enter a series of numbers : ").split()))
 
 def sec_big(new):

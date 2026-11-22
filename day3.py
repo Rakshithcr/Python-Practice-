@@ -1,3 +1,5 @@
+# returns if given word is a Polindrome
+
 word = input("Enter a polindrome word :")
 
 def is_polindrome(txt):
